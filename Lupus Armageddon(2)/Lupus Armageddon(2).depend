@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1572157925 source:c:\users\rosamund scott\documents\lupus armageddon(2)\main.cpp
+	<iostream>
+
+1572293787 source:c:\users\rosamund scott\documents\lupus armageddon(2)\board.cpp
+	<iostream>
+	"defs.h"
+
+1572255518 c:\users\rosamund scott\documents\lupus armageddon(2)\defs.h
+
+1572255570 source:c:\users\rosamund scott\documents\lupus armageddon(2)\eval.cpp
+	<iostream>
+	"Board.cpp"
+	"defs.h"
+
+1572293787 c:\users\rosamund scott\documents\lupus armageddon(2)\board.cpp
+	<iostream>
+	"defs.h"
+
+1572200235 source:c:\users\rosamund scott\documents\lupus armageddon(2)\idea.cpp
+
+1572293748 source:c:\users\rosamund scott\documents\lupus armageddon(2)\movegen.cpp
+	<iostream>
+	"defs.h"
+	"Board.cpp"
+
